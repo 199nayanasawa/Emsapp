@@ -48,6 +48,6 @@ Once the database is set up, you can run your EMS application. Follow the instru
 
 
 Output:
+![Alt text](/home/nineleaps/Pictures/Screenshots/Screenshot from 2024-03-14 17-08-08.png)
 
 
-file:///home/nineleaps/Pictures/Screenshots/Screenshot%20from%202024-03-14%2017-08-08.png
