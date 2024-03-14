@@ -46,3 +46,8 @@ CREATE DATABASE ems3project;
 4. Run the Application:
 Once the database is set up, you can run your EMS application. Follow the instructions provided in the project's README file or any accompanying documentation to start the application. This might involve running a Python script or starting a server. Make sure to configure your application to connect to the ems3project database.
 
+
+Output:
+
+
+file:///home/nineleaps/Pictures/Screenshots/Screenshot%20from%202024-03-14%2017-08-08.png
