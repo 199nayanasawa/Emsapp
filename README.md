@@ -48,6 +48,7 @@ Once the database is set up, you can run your EMS application. Follow the instru
 
 
 Output:
+![Alt Text](https://github.com/199nayanasawa/Emsapp/blob/main/Screenshot%20from%202024-03-14%2017-08-08.png)
 
 
 
