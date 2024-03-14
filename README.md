@@ -30,7 +30,7 @@ Employee Management System (EMS) is a Python application for managing employee d
 1. Clone the repository:
     Clone the repository containing your EMS application on our local machine. Use the following command in your terminal or command prompt: 
    
-   git clone [https://github.com/your_username/ems-application.git](https://github.com/199nayanasawa/Emsapp/tree/main)
+   git clone  https://github.com/199nayanasawa/Emsapp/tree/main
 
 2. Install Dependencies :
 The project requires the following dependencies:
